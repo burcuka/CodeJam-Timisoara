@@ -6,6 +6,13 @@ Welcome to a hands-on workshop that deepens your practical skills of ABAP Cloud 
 In this special edition you'll get exclusive, applied exposure to features delivered in cloud releases 2602–2608 through short demos, guided feature implementation, and expert support. You can also try out relevant features from older releases.
 
 ## What's in It for You?
+
+### Optional: RAP Basics for Beginners
+New to RAP? Start here before diving into the main exercises:
+- **[RAP100 – Build Fiori Apps with the ABAP RESTful Application Programming Model](https://github.com/SAP-samples/abap-platform-rap100)** — a guided, step-by-step introduction to building transactional SAP Fiori apps with RAP *(recommended for beginners)*
+
+---
+
 - Refresh your knowledge about core RAP concepts and building blocks: CDS data modeling, behavior definitions, projections, and UI service exposure
 - Be guided through the implementation of the latest RAP features:
     - [RAP BOs based on CDS Table Entities](/../../wiki/1-RAP-BOs-based-on-CDS-Table-Entities) (2605) - Get to know CDS Table Entities and the option to generate table entity based RAP BOs with the OData Generator from Scratch   
