@@ -20,11 +20,11 @@ In this special edition you'll get exclusive, applied exposure to features deliv
 - Make use of various feedback options
   
 ## Agenda and Format
-- 10:00 : Introduction and feature presentations
-- 11:00 : Feature implementation I
-- 13:00 : Lunch (Cantine)
-- 14:00 : Feature implementation II
-- 15:30 : Closing
+- 10:00 : Introduction
+- 10:30 : Hands-on Exercises
+- 12:00 : Lunch
+- 15:30 : Q+A
+- 16:00 : Closing
 
 Work on any presented feature, combine features across your RAP business objects, and experiment freely. Feature experts will be available throughout for questions and feedback.
 
