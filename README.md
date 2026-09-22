@@ -9,13 +9,11 @@ In this special edition you'll get exclusive, applied exposure to features deliv
 - Refresh your knowledge about core RAP concepts and building blocks: CDS data modeling, behavior definitions, projections, and UI service exposure
 - Be guided through the implementation of the latest RAP features:
     - [RAP BOs based on CDS Table Entities](/../../wiki/1-RAP-BOs-based-on-CDS-Table-Entities) (2605) - Get to know CDS Table Entities and the option to generate table entity based RAP BOs with the OData Generator from Scratch   
-    - [Implementing Authorizations](/../../wiki/2-Implementing-Authorizations) (2608) — a complete end-to-end authorization setup following RAP best practices
     - [ADT in VS Code with the ADT MCP Server](/../../wiki/3-VS-Code---ADT-Basics-—-Creating,-Activating,-and-Running-ABAP-Objects) (2605) — working with ABAP development tools in Visual Studio Code and leveraging the ADT MCP server
     - [Configure a Custom Copilot Agent](/../../wiki/4-Configure-a-Custom-Copilot-Agent) (2608) — first steps towards developing agentic workflows that support RAP development
 - Selected topics from CodeJam 2602 are also available:
     - [Collaborative Draft](/../../wiki/5-Collaborative-Draft) (2508)
     - [Cross-BO with Draft Scope](/../../wiki/6-Draft-Scope) (2508)
-    - [Analytical Table (Read-Only)](/../../wiki/7-Analytical-Table) (2511)
     
     
 - Make use of various feedback options
