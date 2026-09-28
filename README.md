@@ -8,7 +8,7 @@ In this special edition you'll get exclusive, applied exposure to features deliv
 ## What's in It for You?
 - Refresh your knowledge about core RAP concepts and building blocks: CDS data modeling, behavior definitions, projections, and UI service exposure
 - Be guided through the implementation of the latest RAP features:
-    - [RAP100 – Build Fiori Apps with the ABAP RESTful Application Programming Model]([https://github.com/SAP-samples/abap-platform-rap100](https://github.com/burcuka/CodeJam-Timisoara/wiki/0-RAP100-Build-Fiori-Apps) *(optional, for beginners)* — a guided introduction to building transactional SAP Fiori apps with RAP
+    - [RAP100 – Build Fiori Apps with the ABAP RESTful Application Programming Model](https://github.com/burcuka/CodeJam-Timisoara/wiki/0-RAP100-Build-Fiori-Apps) *(optional, for beginners)* — a guided introduction to building transactional SAP Fiori apps with RAP
     - [RAP BOs based on CDS Table Entities](/../../wiki/1-RAP-BOs-based-on-CDS-Table-Entities) (2605) - Get to know CDS Table Entities and the option to generate table entity based RAP BOs with the OData Generator from Scratch   
     - [ADT in VS Code with the ADT MCP Server](/../../wiki/3-VS-Code---ADT-Basics-—-Creating,-Activating,-and-Running-ABAP-Objects) (2605) — working with ABAP development tools in Visual Studio Code and leveraging the ADT MCP server
     - [Configure a Custom Copilot Agent](/../../wiki/4-Configure-a-Custom-Copilot-Agent) (2608) — first steps towards developing agentic workflows that support RAP development
