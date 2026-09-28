@@ -26,7 +26,7 @@ In this special edition you'll get exclusive, applied exposure to features deliv
 - 15:30 : Q+A
 - 16:00 : Closing
 
-Work on any presented feature, combine features across your RAP business objects, and experiment freely. Feature experts will be available throughout for questions and feedback.
+Work on any feature you can find in this repository, combine features across your RAP business objects, and experiment freely. Feature experts will be available throughout for questions and feedback.
 
 ## Prerequisites
 - **Eclipse ADT (latest)** installed — [Installation Tutorial](https://developers.sap.com/tutorials/abap-install-adt.html)
