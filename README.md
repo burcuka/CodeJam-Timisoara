@@ -23,7 +23,7 @@ In this special edition you'll get exclusive, applied exposure to features deliv
 - 10:00 : Introduction
 - 10:30 : Hands-on Exercises
 - 12:00 : Lunch
-- 15:30 : Q+A
+- 15:30 : Feedback
 - 16:00 : Closing
 
 Work on any feature you can find in this repository, combine features across your RAP business objects, and experiment freely. Feature experts will be available throughout for questions and feedback.
